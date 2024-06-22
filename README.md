@@ -8,11 +8,8 @@
 
 ## Menu
 [Data Scraping BMKG](#books-data-scraping-bmkg)
-•
 [Data Scraping Jobstreet](#books-data-scraping-jobstreet)
-•
 [Visualisasi Data Scraping BMKG](#books-visualisasi-data-scraping-bmkg)
-•
 [Visualisasi Data Scraping Jobstreet](#books-visualisasi-data-scraping-jobstreet)
 
 ## :books: Data Scraping BMKG
