@@ -1,3 +1,6 @@
+# SCRAPING DATA BMKG DAN JOBSTREET
+# Author : Tasya Anisah Rizqi
+
 # PROSES SCRAPING
 
     library(rvest)
