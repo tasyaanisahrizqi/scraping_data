@@ -6,7 +6,16 @@
 ## Author
 [Tasya Anisah Rizqi](https://github.com/tasyaanisahrizqi/) (G1501231046)
 
-## Data Scraping BMKG
+# :books: Menu
+[Data Scraping BMKG](#books-data-scraping-bmkg)
+•
+[Data Scraping Jobstreet](#books-data-scraping-jobstreet)
+•
+[Visualisasi Data Scraping BMKG](#books-visualisasi-data-scraping-bmkg)
+•
+[Visualisasi Data Scraping Jobstreet](#books-visualisasi-data-scraping-jobstreet)
+
+## :books: Data Scraping BMKG
     kable(data_bmkg, format = "markdown")
 
 <table>
@@ -2671,7 +2680,7 @@
 </tbody>
 </table>
 
-## Data Scraping Jobstreet
+## :books: Data Scraping Jobstreet
     kable(data_jobstreet, format = "markdown")
 
 <table>
@@ -3713,7 +3722,7 @@
 </tbody>
 </table>
 
-## Visualisasi BMKG
+## :books: Visualisasi Data Scraping BMKG
 Grafik horizontal bar plot untuk variabel Pagi
 + ![](README_files/figure-markdown_strict/unnamed-chunk-48-1.png)
 
@@ -3750,7 +3759,7 @@ Grafik horizontal bar plot untuk variabel Kelembapan
 Grafik bar plot untuk Kota berdasarkan rata-rata kelembapan
 + ![](README_files/figure-markdown_strict/unnamed-chunk-59-1.png)
 
-## Visualisasi Data Scraping Jobstreet
+## :books: Visualisasi Data Scraping Jobstreet
 Grafik horizontal bar plot untuk variabel Rating
 + ![](README_files/figure-markdown_strict/unnamed-chunk-60-1.png)
 
