@@ -1,12 +1,12 @@
 # SCRAPING DATA BMKG DAN JOBSTREET
 
-## Program R Data Scraping
-[RPubs Data Scraping BMKG & Jobstreet](https://rpubs.com/tasyaanisahrizqi/scraping-data)
-
 ## Author
 [Tasya Anisah Rizqi](https://github.com/tasyaanisahrizqi/) (G1501231046)
 
-# Menu
+## Program R Data Scraping
+[RPubs Data Scraping BMKG & Jobstreet](https://rpubs.com/tasyaanisahrizqi/scraping-data)
+
+## Menu
 [Data Scraping BMKG](#books-data-scraping-bmkg)
 •
 [Data Scraping Jobstreet](#books-data-scraping-jobstreet)
