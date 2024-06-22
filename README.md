@@ -7,10 +7,10 @@
 [RPubs Data Scraping BMKG & Jobstreet](https://rpubs.com/tasyaanisahrizqi/scraping-data)
 
 ## Menu
-[Data Scraping BMKG](#books-data-scraping-bmkg)
-[Data Scraping Jobstreet](#books-data-scraping-jobstreet)
-[Visualisasi Data Scraping BMKG](#books-visualisasi-data-scraping-bmkg)
-[Visualisasi Data Scraping Jobstreet](#books-visualisasi-data-scraping-jobstreet)
++ [Data Scraping BMKG](#books-data-scraping-bmkg)
++ [Data Scraping Jobstreet](#books-data-scraping-jobstreet)
++ [Visualisasi Data Scraping BMKG](#books-visualisasi-data-scraping-bmkg)
++ [Visualisasi Data Scraping Jobstreet](#books-visualisasi-data-scraping-jobstreet)
 
 ## :books: Data Scraping BMKG
     kable(data_bmkg, format = "markdown")
