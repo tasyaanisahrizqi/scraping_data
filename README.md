@@ -6,7 +6,7 @@
 ## Author
 [Tasya Anisah Rizqi](https://github.com/tasyaanisahrizqi/) (G1501231046)
 
-# :books: Menu
+# Menu
 [Data Scraping BMKG](#books-data-scraping-bmkg)
 •
 [Data Scraping Jobstreet](#books-data-scraping-jobstreet)
