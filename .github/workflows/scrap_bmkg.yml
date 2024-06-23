@@ -26,6 +26,8 @@ jobs:
           packages: |
             any::dplyr
             any::rvest
+            any::httr
+            any::tidyverse
       
       # set working directory
       - name: Check out repository
