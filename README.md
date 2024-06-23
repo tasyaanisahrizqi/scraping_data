@@ -21,7 +21,7 @@ JobStreet adalah platform pencarian kerja terkemuka di Asia yang menghubungkan p
 JobStreet menawarkan berbagai fitur yang memudahkan pencari kerja dan pemberi kerja untuk menemukan kecocokan yang tepat. Fitur-fitur seperti pencarian pekerjaan yang disesuaikan, saran pekerjaan berdasarkan profil pengguna, dan layanan resume online membantu pencari kerja menemukan peluang yang relevan dengan cepat dan efisien. Di sisi lain, perusahaan dapat memanfaatkan berbagai alat dan layanan yang disediakan oleh JobStreet untuk menarik, menyaring, dan merekrut kandidat yang paling sesuai dengan kebutuhan mereka. Melalui inovasi teknologi dan komitmen untuk menyediakan layanan berkualitas tinggi, JobStreet terus memainkan peran penting dalam memajukan pasar tenaga kerja di Asia.
 
 ## :books: Data Scraping BMKG
-Data diambil dari website [BMKG](https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg)
+Data diambil dari website [BMKG](https://www.bmkg.go.id/cuaca/prakiraan-cuaca-indonesia.bmkg) per 15-21 Juni 2024
 <table>
 <colgroup>
 <col style="width: 10%" />
@@ -171,7 +171,7 @@ Data diambil dari website [BMKG](https://www.bmkg.go.id/cuaca/prakiraan-cuaca-in
 </table>
 
 ## :books: Data Scraping Jobstreet
-Data diambil dari website [Jobstreet](https://www.jobstreet.co.id/companies)
+Data diambil dari website [Jobstreet](https://www.jobstreet.co.id/companies) per 15-21 Juni 2024
 <table>
 <thead>
 <tr class="header">
